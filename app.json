@@ -6,7 +6,7 @@
     "bot",
     "forwarder"
   ],
-  "repository": "https://github.com/AmineSoukara/Telegram-Forwarder",
+  "repository": "https://github.com/xcracker000/Telegram-Forwarder",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables.",
