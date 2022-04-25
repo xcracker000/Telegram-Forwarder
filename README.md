@@ -14,7 +14,7 @@ or you can host and run this bot on [Heroku](https://github.com/AmineSoukara/Tel
 
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AmineSoukara/Telegram-Forwarder/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/xcracker000/Telegram-Forwarder"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 
 ## Setting Up The Bot (Read Before Trying To Use!):
